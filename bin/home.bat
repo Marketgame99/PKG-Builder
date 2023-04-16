@@ -1,0 +1,1 @@
+set HOME=%~dp0
